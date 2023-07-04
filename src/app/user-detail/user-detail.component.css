@@ -1,0 +1,11 @@
+.container {
+    margin: 20px 8px;
+    background-color: #dedede;
+    padding: 20px;
+    display: flex;
+  }
+  
+  .user-detail {
+    padding: 20px;
+  }
+  
